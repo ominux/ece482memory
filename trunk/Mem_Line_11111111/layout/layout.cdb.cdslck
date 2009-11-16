@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      truty1
+HostName                       remlnx2.ews.illinois.edu
+ProcessIdentifier              23777
+ProcessCreationTime_UTC        1258395974
+ProcessCreationTime_Readable   Mon Nov 16 12:26:14 2009 CST
+AppIdentifier                  /apps/Linux/cadence-Sept2009/IC50.46.006/tools/dfII/bin/icfb.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       XXsave write lock
+FilePathUsedToEditLock         /nmnt/work2/ece482/truty1/Project/Mem_Line_11111111/layout/layout.cdb
+TimeEditLocked                 Mon Nov 16 12:38:18 2009 CST

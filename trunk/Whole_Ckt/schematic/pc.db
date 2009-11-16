@@ -1,0 +1,21 @@
+#
+NCSU_Digital_Parts inv symbol
+I6
+I7
+I2
+I1
+I4<2:0> 3
+I5<2:0> 3
+I3
+#
+Project Stage_1 symbol
+I0
+#
+NCSU_Analog_Parts vpulse symbol
+a2_gen
+V1
+A0_gen
+a1_gen
+#
+NCSU_Analog_Parts vdc symbol
+V0
