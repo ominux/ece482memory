@@ -1,0 +1,20 @@
+#
+Project MEM_8x7 symbol
+I20
+#
+Project Decoder symbol
+I19
+#ISCELL
+basic ipin symbol
+PIN1
+PIN3
+PIN8
+PIN5
+PIN4
+PIN6
+PIN2
+PIN7
+PIN0
+#ISCELL
+basic opin symbol
+PIN9

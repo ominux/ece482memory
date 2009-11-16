@@ -1,0 +1,53 @@
+#
+Project Mem_Line_11101111 layout
+I4
+#
+Project Mem_Line_11111111 layout
+I1
+#
+Project Mem_Line_01111111 layout
+I10
+I7
+I6
+I3
+I2
+#ISCELL
+NCSU_TechLib_tsmc02d M2_M1 symbolic
+I23
+I22
+I21
+I20
+I19
+I18
+I17
+I16
+I15
+I14
+I13
+I12
+I11
+I9
+I8
+I5
+#ISCELL
+NCSU_TechLib_tsmc02d metal2 symbolic
+I24
+#ISCELL
+NCSU_TechLib_tsmc02d metal1 symbolic
+I41
+I40
+I39
+I38
+I37
+I36
+I34
+I33
+I32
+I31
+I25
+I35
+I30
+I29
+I28
+I27
+I26

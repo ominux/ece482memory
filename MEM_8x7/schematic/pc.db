@@ -1,0 +1,22 @@
+#
+Project Mem_Line_11101111 symbol
+I7
+#
+Project Mem_Line_11111111 symbol
+I9
+#
+Project Mem_Line_01111111 symbol
+I8
+I10
+I12
+I13
+I18
+#ISCELL
+basic ipin symbol
+PIN3
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN4

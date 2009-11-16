@@ -1,0 +1,28 @@
+#
+Project NAND3 symbol
+I41
+I37
+I46
+I48
+I45
+I50
+I47
+I49
+#ISCELL
+basic ipin symbol
+PIN2
+PIN3
+PIN4
+PIN15
+PIN17
+PIN16
+#ISCELL
+basic opin symbol
+PIN12
+PIN11
+PIN9
+PIN10
+PIN5
+PIN7
+PIN8
+PIN6

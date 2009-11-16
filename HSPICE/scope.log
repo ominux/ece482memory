@@ -1,0 +1,331 @@
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+ScopeSigMgr:loadpffile /nmnt/work2/ece482/truty1/Project/HSPICE/whole_crkt.tr0 1 openonly
+# PF:1
+wm geometry .sigmgr._PF:1 289x335+1285+536
+wm geometry .sigmgr 467x236+1463+201
+wm geometry .sigmgr._PF:1 289x566+1285+305
+pf:read PF:1 v(out_0)
+# WF:1:1
+Graph addsignal WF:1:1 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal0
+pf:read PF:1 v(out_1)
+# WF:1:2
+Graph addsignal WF:1:2 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal1
+Mdi:ArrangeIcons
+Graph:Select Graph0
+Graph:DSel
+Graph itemselect Signal1 add
+# Signal1
+Mdi:ArrangeIcons
+Graph sigconfig Signal1 -region 0 -rgnindex 1
+Graph:DSel
+pf:read PF:1 v(out_2)
+# WF:1:3
+Graph addsignal WF:1:3 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal2
+Mdi:ArrangeIcons
+Graph:Select Graph0
+Graph:DSel
+Graph itemselect Signal2 add
+# Signal2
+Mdi:ArrangeIcons
+Graph sigconfig Signal2 -region 0 -rgnindex 2
+Graph:DSel
+pf:read PF:1 v(clk)
+# WF:1:4
+Graph addsignal WF:1:4 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal3
+Mdi:ArrangeIcons
+Graph:Select Graph0
+Graph:DSel
+Graph itemselect Signal3 add
+# Signal3
+Mdi:ArrangeIcons
+Graph sigconfig Signal3 -region 0 -rgnindex 3
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:FullSize
+Graph:DSel
+pf:read PF:1 v(dff_out_0)
+# WF:1:5
+Graph addsignal WF:1:5 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal4
+pf:read PF:1 v(dff_out_1)
+# WF:1:6
+Graph addsignal WF:1:6 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal5
+pf:read PF:1 v(dff_out_2)
+# WF:1:7
+Graph addsignal WF:1:7 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal6
+Mdi:ArrangeIcons
+Graph:Select Graph0
+Graph:DSel
+Graph itemselect Signal5 add
+# Signal5
+Mdi:ArrangeIcons
+Graph sigconfig Signal5 -region 3 -rgnindex 1
+Mdi:ArrangeIcons
+Graph:DSel
+Graph itemselect Signal6 add
+# Signal6
+Mdi:ArrangeIcons
+Graph delsignal selected
+Graph delsignal selected
+Mdi:ArrangeIcons
+Graph:DSel
+Graph itemselect Signal5 add
+# Signal5
+Mdi:ArrangeIcons
+Graph delsignal selected
+Mdi:ArrangeIcons
+Graph:DSel
+Graph itemselect Signal4 add
+# Signal4
+Mdi:ArrangeIcons
+Graph delsignal selected
+Mdi:ArrangeIcons
+Graph:DSel
+Graph itemselect Signal0 add
+# Signal0
+Mdi:ArrangeIcons
+Graph delsignal selected
+Mdi:ArrangeIcons
+Graph:DSel
+Graph itemselect Signal1 add
+# Signal1
+Mdi:ArrangeIcons
+Graph delsignal selected
+Mdi:ArrangeIcons
+Graph:DSel
+Graph itemselect Signal3 add
+# Signal3
+Mdi:ArrangeIcons
+Graph delsignal selected
+Mdi:ArrangeIcons
+Graph:DSel
+Graph itemselect Signal2 add
+# Signal2
+Mdi:ArrangeIcons
+Graph delsignal selected
+Graph:DSel
+pf:read PF:1 i(v1)
+# WF:1:8
+Graph addsignal WF:1:8 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal0
+pf:read PF:1 i(va0_gen)
+# WF:1:9
+Graph addsignal WF:1:9 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal1
+pf:read PF:1 i(va1_gen)
+# WF:1:10
+Graph addsignal WF:1:10 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal2
+pf:read PF:1 i(va2_gen)
+# WF:1:11
+Graph addsignal WF:1:11 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal3
+Mdi:ArrangeIcons
+Graph:Select Graph0
+Graph:DSel
+Graph itemselect Signal3 add
+# Signal3
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Graph:DSel
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Graph:DSel
+Graph itemselect Signal3 add
+# Signal3
+Mdi:ArrangeIcons
+Graph delsignal selected
+Mdi:ArrangeIcons
+Graph:DSel
+Graph itemselect Signal2 add
+# Signal2
+Mdi:ArrangeIcons
+Graph delsignal selected
+Mdi:ArrangeIcons
+Graph:DSel
+Graph itemselect Signal1 add
+# Signal1
+Mdi:ArrangeIcons
+Graph delsignal selected
+Graph:DSel
+pf:read PF:1 i(v1)
+# WF:1:8
+Graph addsignal WF:1:8 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal4
+pf:read PF:1 i(v0)
+# WF:1:12
+Graph addsignal WF:1:12 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal5
+Mdi:ArrangeIcons
+Graph:Select Graph0
+Graph:DSel
+Graph itemselect Signal5 add
+# Signal5
+Mdi:ArrangeIcons
+Graph delsignal selected
+Mdi:ArrangeIcons
+Graph:DSel
+Graph itemselect Signal4 add
+# Signal4
+Mdi:ArrangeIcons
+Graph delsignal selected
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Graph:DSel
+Graph itemselect Signal0 add
+# Signal0
+Mdi:ArrangeIcons
+Graph delsignal selected
+Graph:DSel
+pf:read PF:1 1TPOWRD(power)
+# WF:1:13
+Graph addsignal WF:1:13 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal0
+Mdi:ArrangeIcons
+Graph:DSel
+Graph:Select Graph0
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Graph:DSel
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+wm geometry . 900x785+315+114
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) whole_crkt.tr0}}
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:Close
+GrXY:NewGraph
+# Graph1
+pf:read PF:2 v(clk)
+# WF:2:2
+Graph addsignal WF:2:2 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal0
+pf:read PF:2 v(dff_out_0)
+# WF:2:3
+Graph addsignal WF:2:3 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal1
+pf:read PF:2 v(dff_out_1)
+# WF:2:4
+Graph addsignal WF:2:4 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal2
+pf:read PF:2 v(dff_out_2)
+# WF:2:5
+Graph addsignal WF:2:5 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal3
+Mdi:ArrangeIcons
+Graph:Select Graph1
+Graph:DSel
+Graph itemselect Signal3 add
+# Signal3
+Mdi:ArrangeIcons
+Graph sigconfig Signal3 -region 2 -rgnindex 1
+Mdi:ArrangeIcons
+Graph:DSel
+Graph itemselect Signal1 add
+# Signal1
+Mdi:ArrangeIcons
+Graph sigconfig {Signal1 Signal2 Signal3} -region {2 2 2} -rgnindex {0 1 2}
+Mdi:ArrangeIcons
+Graph:DSel
+Graph itemselect Signal0 add
+# Signal0
+Mdi:ArrangeIcons
+Graph sigconfig Signal0 -region 1 -rgnindex 3
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:FullSize
+Graph axisconfig {AxisX(0) AxisY(0,0)} -range {{4.95n 9.9n } {-0.01 0.98 }}
+Graph axisconfig AxisX(0) -range {7n 13n exact}
+Graph axisconfig AxisX(0) -range {10n 16n exact}
+Graph axisconfig {AxisX(0) AxisY(0,0)} -range {{11.98n 13.96n } {0.263 0.626 }}
+Graph axisconfig AxisY(0,0) -range {0.45 0.05 exact}
+Graph axisconfig AxisX(0) -range {10.25n 12.75n exact}
+Graph axisconfig AxisX(0) -range {11.5n 14n exact}
+Graph axisconfig AxisY(0,0) -range {0.65 0.25 exact}
+Graph axisconfig AxisY(0,0) -range {0.85 0.45 exact}
+Graph axisconfig AxisY(0,0) -range {1.05 0.65 exact}
+Graph axisconfig AxisX(0) -range {10.25n 12.75n exact}
+Graph axisconfig AxisY(0,0) -range {1.25 0.85 exact}
+Graph axisconfig AxisY(0,0) -range {1.45 1.05 exact}
+Graph axisconfig AxisY(0,0) -range {1.65 1.25 exact}
+Graph axisconfig AxisY(0,0) -range {1.85 1.45 exact}
+Graph axisconfig AxisY(0,0) -range {2.05 1.65 exact}
+Graph axisconfig AxisY(0,0) -range {1.85 1.45 exact}
+Graph axisconfig AxisY(0,0) -range {1.65 1.25 exact}
+Graph axisconfig AxisY(0,0) -range {1.45 1.05 exact}
+Graph axisconfig AxisY(0,0) -range {1.25 0.85 exact}
+Graph axisconfig AxisY(0,0) -range {1.05 0.65 exact}
+Graph axisconfig AxisY(0,0) -range {0.85 0.45 exact}
+Graph axisconfig AxisY(0,0) -range {0.65 0.25 exact}
+Graph axisconfig AxisY(0,0) -range {0.85 0.45 exact}
+Graph axisconfig AxisY(0,0) -range {1.05 0.65 exact}
+Graph axisconfig AxisY(0,0) -range {1.25 0.85 exact}
+Graph axisconfig AxisY(0,0) -range {1.45 1.05 exact}
+Graph axisconfig AxisY(0,0) -range {1.65 1.25 exact}
+Graph axisconfig AxisX(0) -range {9n 11.5n exact}
+Graph axisconfig AxisY(0,0) -range {1.85 1.45 exact}
+Graph axisconfig AxisY(0,0) -range {2.05 1.65 exact}
+Graph axisconfig AxisX(0) -range {7.75n 10.25n exact}
+Graph axisconfig AxisX(0) -range {6.5n 9n exact}
+Graph axisconfig AxisX(0) -range {5.25n 7.75n exact}
+Graph axisconfig AxisX(0) -range {4n 6.5n exact}
+Graph axisconfig AxisX(0) -range {2.75n 5.25n exact}
+Graph axisconfig AxisX(0) -range {1.5n 4n exact}
+Graph axisconfig AxisX(0) -range {250p 2.75n exact}
+Graph axisconfig AxisX(0) -range {-1n 1.5n exact}
+Graph axisconfig AxisX(0) -range {-2.25n 250p exact}
+Graph axisconfig {AxisX(0) AxisY(0,0)} -range {all all} -zoomed {0 0}
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:Close
+GrXY:NewGraph
+# Graph2
+pf:read PF:2 1TPOWRD(power)
+# WF:2:1
+Graph addsignal WF:2:1 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal0
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:FullSize
+Mdi:ArrangeIcons
+Graph:DSel
+Graph:Select Graph2
+Mdi:ArrangeIcons
+Graph axisconfig {AxisX(0) AxisY(0,0)} -range {all all} -zoomed {0 0}
+Graph axisconfig {AxisX(0) AxisY(0,0)} -range {all all} -zoomed {0 0}
+Graph axisconfig {AxisX(0) AxisY(0,0)} -range {all all} -zoomed {0 0}
+Graph axisconfig {AxisY(0,0) AxisX(0)} -range {{594u 0.001188 } {5.28n 10.56n }}
+Graph axisconfig {AxisX(0) AxisY(0,0)} -range {all all} -zoomed {0 0}
+Graph axisconfig {AxisX(0) AxisY(0,0)} -range {all all} -zoomed {0 0}
+Graph axisconfig {AxisX(0) AxisY(0,0)} -range {all all} -zoomed {0 0}
+Graph:DSel

@@ -1,0 +1,27 @@
+#
+NCSU_Analog_Parts pcapacitor ivpcell
++12
++11
++10
++9
++8
++7
++6
+#
+NCSU_Analog_Parts pmos4 ivpcell
++3
++4
++5
+#
+NCSU_Analog_Parts nmos4 ivpcell
++0
++1
++2
+#ISCELL
+NCSU_TechLib_tsmc02d metal1 symbolic
+I8
+I9
+I13
+I12
+I11
+I10
