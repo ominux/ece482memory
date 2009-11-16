@@ -1,8 +1,8 @@
 #
-Project MEM_8x7 symbol
+ece482memory MEM_8x7 symbol
 I20
 #
-Project Decoder symbol
+ece482memory Decoder symbol
 I19
 #ISCELL
 basic ipin symbol

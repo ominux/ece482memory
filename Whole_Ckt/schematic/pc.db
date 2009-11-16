@@ -1,4 +1,7 @@
 #
+ece482memory Stage_1 symbol
+I0
+#
 NCSU_Digital_Parts inv symbol
 I6
 I7
@@ -7,9 +10,6 @@ I1
 I4<2:0> 3
 I5<2:0> 3
 I3
-#
-Project Stage_1 symbol
-I0
 #
 NCSU_Analog_Parts vpulse symbol
 a2_gen
