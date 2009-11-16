@@ -1,13 +1,13 @@
 #
-Project NAND3 symbol
+ece482memory NAND3 symbol
+I48
+I47
+I45
+I46
+I49
+I50
 I41
 I37
-I46
-I48
-I45
-I50
-I47
-I49
 #ISCELL
 basic ipin symbol
 PIN2
