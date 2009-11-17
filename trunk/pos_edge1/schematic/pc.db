@@ -1,0 +1,26 @@
+#
+ece482memory inv4 symbol
+I42
+#
+ece482memory inv6 symbol
+I39
+I40
+#
+ece482memory inv0.125 symbol
+I38
+I41
+#
+ece482memory t-gate3 symbol
+I37
+#
+ece482memory t-gate2 symbol
+I35
+#ISCELL
+basic ipin symbol
+PIN2
+PIN0
+PIN1
+#ISCELL
+basic opin symbol
+PIN4
+PIN3
