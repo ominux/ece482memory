@@ -1,15 +1,18 @@
 #
+ece482memory reg_file1 symbol
+I8
+#
 ece482memory Stage_1 symbol
 I0
 #
 NCSU_Digital_Parts inv symbol
-I6
-I7
-I2
-I1
 I4<2:0> 3
 I5<2:0> 3
+I2
+I1
 I3
+I6
+I7
 #
 NCSU_Analog_Parts vpulse symbol
 a2_gen
