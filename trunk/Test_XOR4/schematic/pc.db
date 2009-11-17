@@ -1,0 +1,23 @@
+#
+NCSU_Digital_Parts inv symbol
+I5
+I1
+I4
+I3
+I2
+#
+Hamming XOR4 symbol
+I0
+#
+NCSU_Analog_Parts vdc symbol
+V0
+#
+NCSU_Analog_Parts vpulse symbol
+V5
+V4
+V3
+V2
+#ISCELL
+basic opin symbol
+PIN1
+PIN0
