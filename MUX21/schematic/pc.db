@@ -1,0 +1,28 @@
+#
+NCSU_Analog_Parts vpulse symbol
+V3
+V1
+V2
+#
+NCSU_Analog_Parts vdc symbol
+V0
+#
+NCSU_Analog_Parts pmos4 symbol
+P2
+P1
+P0
+#
+NCSU_Analog_Parts nmos4 symbol
+N2
+N1
+N0
+#ISCELL
+basic ipin symbol
+PIN5
+PIN4
+PIN0
+PIN2
+PIN1
+#ISCELL
+basic opin symbol
+PIN3
