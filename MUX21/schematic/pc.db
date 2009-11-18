@@ -1,12 +1,4 @@
 #
-NCSU_Analog_Parts vpulse symbol
-V3
-V1
-V2
-#
-NCSU_Analog_Parts vdc symbol
-V0
-#
 NCSU_Analog_Parts pmos4 symbol
 P2
 P1
