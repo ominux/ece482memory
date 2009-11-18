@@ -1,9 +1,9 @@
 #
 ece482memory NAND3_1x symbol
-I17
-I16
-I15
 I14
+I15
+I16
+I17
 #
 ece482memory inv symbol
 I13
