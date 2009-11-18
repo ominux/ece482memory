@@ -1,4 +1,16 @@
 #
+NCSU_Analog_Parts pcapacitor symbol
+C4
+C3
+C5
+C6
+#
+ece482memory reg_file2 symbol
+I10
+#
+ece482memory hamming_7_4 symbol
+I9
+#
 ece482memory reg_file1 symbol
 I8
 #
@@ -6,13 +18,11 @@ ece482memory Stage_1 symbol
 I0
 #
 NCSU_Digital_Parts inv symbol
-I4<2:0> 3
-I5<2:0> 3
-I2
-I1
-I3
+I12
 I6
 I7
+I4<2:0> 3
+I5<2:0> 3
 #
 NCSU_Analog_Parts vpulse symbol
 a2_gen
