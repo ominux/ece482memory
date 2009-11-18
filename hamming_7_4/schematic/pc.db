@@ -1,0 +1,32 @@
+#
+ece482memory inv symbol
+I13
+I12
+I11
+#
+ece482memory NAND3 symbol
+I10
+I9
+I8
+I7
+#
+ece482memory MUX21 symbol
+I6
+I5
+I4
+I3
+#
+ece482memory XOR4 symbol
+I1
+I0
+I2
+#ISCELL
+basic opin symbol
+PIN3
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic ipin symbol
+PIN4
+PIN5
