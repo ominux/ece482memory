@@ -1,4 +1,7 @@
 #
+ece482memory XOR2 symbol
+I1
+#
 NCSU_Analog_Parts pmos4 symbol
 P5
 P4
@@ -10,9 +13,6 @@ N5
 N4
 N1
 N0
-#
-Hamming XOR2 symbol
-I0
 #ISCELL
 basic ipin symbol
 PIN5
