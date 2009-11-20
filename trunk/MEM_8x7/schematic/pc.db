@@ -1,4 +1,8 @@
 #
+ece482memory Mem_Line_01101111 symbol
+I1
+I0
+#
 ece482memory Mem_Line_11101111 symbol
 I7
 #
@@ -6,10 +10,8 @@ ece482memory Mem_Line_11111111 symbol
 I9
 #
 ece482memory Mem_Line_01111111 symbol
-I12
 I10
-I13
-I8
+I12
 I18
 #ISCELL
 basic ipin symbol

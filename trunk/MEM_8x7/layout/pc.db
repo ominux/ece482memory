@@ -1,15 +1,17 @@
 #
-Project Mem_Line_11101111 layout
+ece482memory Mem_Line_01101111 layout
+I7
+I3
+#
+ece482memory Mem_Line_11101111 layout
 I4
 #
-Project Mem_Line_11111111 layout
+ece482memory Mem_Line_11111111 layout
 I1
 #
-Project Mem_Line_01111111 layout
+ece482memory Mem_Line_01111111 layout
 I10
-I7
 I6
-I3
 I2
 #ISCELL
 NCSU_TechLib_tsmc02d M2_M1 symbolic

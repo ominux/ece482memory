@@ -5,12 +5,12 @@
 #
 LockStakeVersion               1.1
 LoginName                      truty1
-HostName                       remlnx2.ews.illinois.edu
-ProcessIdentifier              23777
-ProcessCreationTime_UTC        1258395974
-ProcessCreationTime_Readable   Mon Nov 16 12:26:14 2009 CST
+HostName                       remlnx1.ews.illinois.edu
+ProcessIdentifier              2902
+ProcessCreationTime_UTC        1258751529
+ProcessCreationTime_Readable   Fri Nov 20 15:12:09 2009 CST
 AppIdentifier                  /apps/Linux/cadence-Sept2009/IC50.46.006/tools/dfII/bin/icfb.exe
 OSType                         lnx86
-ReasonForPlacingEditLock       XXopen upgrade lock
-FilePathUsedToEditLock         /nmnt/work2/ece482/truty1/Project/Whole_Ckt/schematic/sch.cdb
-TimeEditLocked                 Mon Nov 16 12:40:11 2009 CST
+ReasonForPlacingEditLock       XXsave write lock
+FilePathUsedToEditLock         /nmnt/work2/ece482/truty1/ece482memory/Whole_Ckt/schematic/sch.cdb
+TimeEditLocked                 Fri Nov 20 15:24:41 2009 CST
