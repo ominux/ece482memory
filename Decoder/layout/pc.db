@@ -1,0 +1,54 @@
+#
+ece482memory NAND3 layout
+I12
+I11
+I10
+I9
+I8
+I6
+I7
+I1
+#ISCELL
+NCSU_TechLib_tsmc02d metal2 symbolic
+I14
+I13
+I5
+I4
+I3
+I2
+#ISCELL
+NCSU_TechLib_tsmc02d metal1 symbolic
+I22
+I21
+I20
+I19
+I18
+I17
+I16
+I15
+#ISCELL
+NCSU_TechLib_tsmc02d M2_M1 symbolic
+I46
+I45
+I44
+I24
+I25
+I26
+I27
+I28
+I29
+I30
+I31
+I32
+I33
+I34
+I35
+I36
+I37
+I38
+I39
+I23
+I40
+I41
+I42
+I43
