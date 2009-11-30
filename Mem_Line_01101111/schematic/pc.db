@@ -1,14 +1,14 @@
 #
 NCSU_Analog_Parts nmos4 symbol
+N17
+N19
+N20
 N25
-N24
-N23
 N22
 N21
-N20
-N19
+N24
+N23
 N18
-N17
 #
 NCSU_Analog_Parts pmos4 symbol
 P9
