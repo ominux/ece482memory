@@ -4,15 +4,15 @@ P9
 P1
 #
 NCSU_Analog_Parts nmos4 symbol
-N17
-N18
-N19
-N20
-N21
-N22
-N23
-N24
 N25
+N24
+N23
+N22
+N21
+N20
+N19
+N18
+N17
 #ISCELL
 basic ipin symbol
 PIN12
