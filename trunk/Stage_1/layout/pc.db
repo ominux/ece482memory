@@ -1,0 +1,30 @@
+#
+ece482memory MEM_8x7 layout
+I2
+#
+ece482memory Decoder layout2
+I1
+#ISCELL
+NCSU_TechLib_tsmc02d metal2 symbolic
+I13
+I11
+I3
+#ISCELL
+NCSU_TechLib_tsmc02d metal1 symbolic
+I20
+I19
+I18
+I17
+I16
+I15
+I14
+I12
+I4
+I5
+I6
+I7
+I8
+#ISCELL
+NCSU_TechLib_tsmc02d M2_M1 symbolic
+I10
+I9
