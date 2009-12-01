@@ -6,8 +6,6 @@ I16
 I17
 #
 ece482memory inv symbol
-I19
-I18
 I13
 I12
 I11
@@ -24,7 +22,6 @@ I0
 I2
 #ISCELL
 basic opin symbol
-PIN6
 PIN3
 PIN2
 PIN1
