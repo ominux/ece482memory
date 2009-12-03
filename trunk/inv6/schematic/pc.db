@@ -6,6 +6,8 @@ NCSU_Analog_Parts pmos4 symbol
 P1
 #ISCELL
 basic ipin symbol
+PIN5
+PIN4
 PIN0
 #ISCELL
 basic opin symbol
