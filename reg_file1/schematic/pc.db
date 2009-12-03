@@ -1,20 +1,22 @@
 #
 ece482memory reg1 symbol
-I2
-I1
 I0
+I1
+I2
 #ISCELL
 basic ipin symbol
+PIN12
+PIN11
+PIN1
+PIN2
 PIN4
 PIN3
-PIN2
-PIN1
 PIN0
 #ISCELL
 basic opin symbol
-PIN10
-PIN9
-PIN8
-PIN7
 PIN6
 PIN5
+PIN8
+PIN7
+PIN10
+PIN9
