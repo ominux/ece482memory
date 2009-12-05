@@ -6,8 +6,8 @@ I16
 I17
 #
 ece482memory inv symbol
-I13
 I12
+I13
 I11
 #
 ece482memory MUX21 symbol
@@ -18,8 +18,8 @@ I3
 #
 ece482memory XOR4 symbol
 I1
-I0
 I2
+I0
 #ISCELL
 basic opin symbol
 PIN3
