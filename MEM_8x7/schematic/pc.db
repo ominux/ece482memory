@@ -1,18 +1,24 @@
 #
-ece482memory Mem_Line_01101111 symbol
-I1
+ece482memory Mem_Line_11101110 symbol
+I12
+#
+ece482memory Mem_Line_10011110 symbol
+I10
+#
+ece482memory Mem_Line_10110010 symbol
 I0
 #
-ece482memory Mem_Line_11101111 symbol
-I7
+ece482memory Mem_Line_00001110 symbol
+I1
 #
-ece482memory Mem_Line_11111111 symbol
-I9
+ece482memory Mem_Line_00101010 symbol
+I4
 #
-ece482memory Mem_Line_01111111 symbol
-I10
-I12
-I18
+ece482memory Mem_Line_00010010 symbol
+I3
+#
+ece482memory Mem_Line_01011110 symbol
+I2
 #ISCELL
 basic ipin symbol
 PIN3
