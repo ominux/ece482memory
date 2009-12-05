@@ -1,5 +1,6 @@
 #
 ece482memory inv3 symbol
+I40
 I61
 #
 ece482memory t-gate2 symbol
@@ -8,11 +9,8 @@ I64
 ece482memory t-gate symbol
 I63
 #
-ece482memory inv5 symbol
-I40
-#
 ece482memory inv2 symbol
-I66
+I67
 I54
 #
 ece482memory inv0.25 symbol
