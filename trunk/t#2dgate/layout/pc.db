@@ -9,14 +9,14 @@ NCSU_TechLib_tsmc02d nmos layout
 I1
 #ISCELL
 NCSU_TechLib_tsmc02d M1_POLY symbolic
-I4
 I6
+I4
 #ISCELL
 NCSU_TechLib_tsmc02d metal1 symbolic
-I9
-I10
-I8
 I12
+I10
+I9
+I8
 I11
 I7
 #ISCELL
