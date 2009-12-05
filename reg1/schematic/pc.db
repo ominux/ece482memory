@@ -9,19 +9,19 @@ ece482memory t-gate symbol
 I50
 #
 ece482memory inv6 symbol
-I40
 I39
+I40
 #
 ece482memory inv0.125 symbol
-I41
 I38
+I41
 #ISCELL
 basic ipin symbol
-PIN8
-PIN7
 PIN1
 PIN0
 PIN2
+PIN6
+PIN5
 #ISCELL
 basic opin symbol
 PIN3
