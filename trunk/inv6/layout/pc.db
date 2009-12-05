@@ -1,12 +1,12 @@
 #
+NCSU_TechLib_tsmc02d ntap layout
+I3
+#
 NCSU_TechLib_tsmc02d nmos layout
 I1
 #
 NCSU_TechLib_tsmc02d pmos layout
 I6
-#
-NCSU_TechLib_tsmc02d ntap layout
-I3
 #ISCELL
 NCSU_TechLib_tsmc02d metal1 symbolic
 I5
