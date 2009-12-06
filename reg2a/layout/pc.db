@@ -1,0 +1,53 @@
+#
+ece482memory inv3 layout
+I3
+#
+ece482memory inv5 layout
+I6
+#
+ece482memory t-gate2 layout
+I5
+#
+ece482memory inv0.25 layout
+I7
+I4
+#
+ece482memory t-gate layout
+I2
+#
+ece482memory inv2 layout
+I8
+I1
+#ISCELL
+NCSU_TechLib_tsmc02d M2_M1 symbolic
+I35
+I15
+I13
+I18
+I16
+I19
+I20
+I21
+I22
+I23
+I24
+I25
+I26
+I27
+I12
+I10
+I11
+I17
+I14
+I9
+#ISCELL
+NCSU_TechLib_tsmc02d metal1 symbolic
+I34
+I28
+I32
+#ISCELL
+NCSU_TechLib_tsmc02d metal2 symbolic
+I30
+I29
+I31
+I33
