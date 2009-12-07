@@ -14,10 +14,12 @@ I67
 I54
 #
 ece482memory inv0.25 symbol
-I55
 I57
+I55
 #ISCELL
 basic ipin symbol
+PIN6
+PIN5
 PIN1
 PIN0
 PIN2
