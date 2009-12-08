@@ -1,4 +1,7 @@
 #
+ece482memory inv2 symbol
+I21<6:0> 7
+#
 ece482memory MEM_8x7 symbol
 I20
 #
@@ -17,4 +20,5 @@ PIN7
 PIN0
 #ISCELL
 basic opin symbol
+PIN10
 PIN9

@@ -1,4 +1,22 @@
 #
+NCSU_TechLib_tsmc02d nmos layout
+I46
+I40
+I39
+I33
+I21
+I25
+I30
+#
+NCSU_TechLib_tsmc02d pmos layout
+I47
+I42
+I41
+I34
+I9
+I26
+I27
+#
 ece482memory MEM_8x7 layout
 I2
 #
@@ -11,6 +29,13 @@ I11
 I3
 #ISCELL
 NCSU_TechLib_tsmc02d metal1 symbolic
+I54
+I53
+I52
+I51
+I50
+I49
+I48
 I20
 I19
 I18
@@ -26,5 +51,33 @@ I7
 I8
 #ISCELL
 NCSU_TechLib_tsmc02d M2_M1 symbolic
+I61
+I59
+I57
+I55
+I43
 I10
-I9
+#ISCELL
+NCSU_TechLib_tsmc02d M1_POLY symbolic
+I45
+I38
+I37
+I32
+I22
+I24
+I29
+#ISCELL
+NCSU_TechLib_tsmc02d M1_N symbolic
+I44
+I36
+I35
+I28
+I23
+I31
+I0
+#ISCELL
+NCSU_TechLib_tsmc02d M3_M2 symbolic
+I62
+I60
+I58
+I56

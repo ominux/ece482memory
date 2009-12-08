@@ -17,7 +17,6 @@ I2
 #
 ece482memory inv2 layout
 I8
-I1
 #ISCELL
 NCSU_TechLib_tsmc02d M2_M1 symbolic
 I15
@@ -30,7 +29,7 @@ I21
 I22
 I23
 I24
-I25
+I1
 I26
 I27
 I12

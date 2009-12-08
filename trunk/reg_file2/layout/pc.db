@@ -25,20 +25,21 @@ I8
 I7
 #ISCELL
 NCSU_TechLib_tsmc02d metal2 symbolic
+I42
 I45
 I44
 I43
-I42
 I41
 I40
 I39
+I22
 I21
 #ISCELL
 NCSU_TechLib_tsmc02d metal1 symbolic
+I35
 I38
 I37
 I36
-I35
 I34
 I33
 I32
@@ -48,7 +49,6 @@ I27
 I26
 I24
 I23
-I22
 I25
 #ISCELL
 NCSU_TechLib_tsmc02d metal3 symbolic
