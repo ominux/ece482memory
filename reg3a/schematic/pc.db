@@ -1,9 +1,9 @@
 #
-ece482memory t-gate2 symbol
-I64
-#
 ece482memory t-gate symbol
 I63
+#
+ece482memory t-gate2 symbol
+I64
 #
 ece482memory inv2 symbol
 I61

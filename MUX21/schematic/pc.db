@@ -1,7 +1,7 @@
 #
 ece482memory t-gate symbol
-I2
 I1
+I2
 #
 NCSU_Analog_Parts pmos4 symbol
 P2
