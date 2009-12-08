@@ -21,6 +21,9 @@ ece482memory Mem_Line_01011110 layout
 I2
 #ISCELL
 NCSU_TechLib_tsmc02d M2_M1 symbolic
+I43
+I15
+I23
 I22
 I21
 I20
@@ -28,6 +31,7 @@ I19
 I18
 I17
 I16
+I42
 I14
 I13
 I12
@@ -35,10 +39,13 @@ I11
 I9
 I8
 I5
+I44
 #ISCELL
 NCSU_TechLib_tsmc02d metal2 symbolic
+I25
 I24
 I27
+I26
 #ISCELL
 NCSU_TechLib_tsmc02d metal1 symbolic
 I41
@@ -51,9 +58,7 @@ I34
 I33
 I32
 I31
-I25
 I35
 I30
 I29
 I28
-I26

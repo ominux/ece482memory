@@ -1,5 +1,13 @@
 #
 NCSU_Analog_Parts pcapacitor ivpcell
++71
++70
++69
++68
++67
++66
++65
++64
 +63
 +62
 +61
@@ -61,10 +69,10 @@ NCSU_Analog_Parts pmos4 ivpcell
 #
 NCSU_Analog_Parts nmos4 ivpcell
 +0
-+2
-+4
 +1
++2
 +3
++4
 +5
 +6
 +7
