@@ -1,0 +1,41 @@
+#
+ece482memory inv symbol
+I12
+I10
+I11
+#
+ece482memory hamming_7_4 symbol
+I7
+#
+ece482memory reg3a symbol
+I32<3:0> 4
+#
+ece482memory inv2 symbol
+I1
+I6
+I3
+I2
+I4
+#
+ece482memory Stage_1 symbol
+I0
+#
+ece482memory reg_file1 symbol
+I8
+#
+ece482memory reg_file2 symbol
+I9
+#ISCELL
+basic ipin symbol
+PIN10
+PIN9
+PIN4
+PIN2
+PIN0
+PIN1
+#ISCELL
+basic opin symbol
+PIN15
+PIN13
+PIN12
+PIN11
