@@ -1,13 +1,13 @@
 #
+ece482memory t-gate symbol
+I2
+I1
+#
 NCSU_Analog_Parts pmos4 symbol
 P2
-P1
-P0
 #
 NCSU_Analog_Parts nmos4 symbol
 N2
-N1
-N0
 #ISCELL
 basic ipin symbol
 PIN5
