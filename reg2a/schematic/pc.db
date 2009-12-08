@@ -12,7 +12,6 @@ ece482memory t-gate2 symbol
 I64
 #
 ece482memory inv2 symbol
-I66
 I54
 #
 ece482memory inv0.25 symbol
@@ -20,8 +19,8 @@ I55
 I57
 #ISCELL
 basic ipin symbol
-PIN1
 PIN0
+PIN1
 PIN5
 PIN6
 PIN2
