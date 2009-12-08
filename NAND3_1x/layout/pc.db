@@ -1,9 +1,9 @@
 #
-NCSU_TechLib_tsmc02d nmos layout
-I1
-#
 NCSU_TechLib_tsmc02d pmos layout
 I2
+#
+NCSU_TechLib_tsmc02d nmos layout
+I1
 #ISCELL
 NCSU_TechLib_tsmc02d M1_P symbolic
 I3
@@ -12,14 +12,14 @@ NCSU_TechLib_tsmc02d NTAP symbolic
 I4
 #ISCELL
 NCSU_TechLib_tsmc02d M1_POLY symbolic
-I7
 I6
+I7
 I5
 #ISCELL
 NCSU_TechLib_tsmc02d metal1 symbolic
-I9
+I11
 I8
 I13
+I9
 I12
-I11
 I10
