@@ -1,11 +1,9 @@
 * # FILE NAME: /HOME/ENGR/TRUTY1/CADENCE/SIMULATION/WHOLE_CKT/HSPICES/          
 * SCHEMATIC/NETLIST/WHOLE_CKT.C.RAW
 * NETLIST OUTPUT FOR HSPICES.
-* GENERATED ON NOV 16 12:59:16 2009
+* GENERATED ON DEC 8 16:24:54 2009
    
 * GLOBAL NET DEFINITIONS
-.lib "/apps/Linux/cadence-Sept2009/ncsu-cdk-1.5.1/models/hspice/public/publicModel/tsmc18dP" PMOS 
-.lib "/apps/Linux/cadence-Sept2009/ncsu-cdk-1.5.1/models/hspice/public/publicModel/tsmc18dN" NMOS 
 .GLOBAL VDD! 
 * FILE NAME: ECE482MEMORY_WHOLE_CKT_SCHEMATIC.S.
 * SUBCIRCUIT FOR CELL: WHOLE_CKT.
@@ -2746,17 +2744,24 @@ M1975 GND 10 3 GND  TSMC18DN  L=180.000000682412E-9 W=539.999973625527E-9
    
 * END OF SUBCIRCUIT DEFINITION.
 .ENDS PART1_G1 
-
- 
+   
+.lib "$CDK_DIR/models/hspice/public/publicModel/tsmc18dP" PMOS 
+.lib "$CDK_DIR/models/hspice/public/publicModel/tsmc18dN" NMOS 
+   
+   
+* INCLUDE FILES
+   
+   
+   
+   
+   
+   
 * END OF NETLIST
-.TRAN  5.00000E-11 1.50000E-08 START=  0.0000    
+.TRAN  5.00000E-11 1.70000E-08 START=  0.0000    
 .TEMP    25.0000    
 .OP
 .save
 .OPTION  INGOLD=2 ARTIST=2 PSF=2
 +        PROBE=0
 +        DELMAX = 1.00000E-10
-
-.MEAS TRAN avg_power AVG POWER FROM=1n TO=9n
-.option POST=2
 .END
