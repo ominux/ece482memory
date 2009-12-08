@@ -1,9 +1,9 @@
-***** HSPICE - Z-2007.03-SP1 32-BIT (May 25 2007) 16:44:39 12/06/2009 linux
+***** HSPICE - Z-2007.03-SP1 32-BIT (May 25 2007) 15:33:27 12/08/2009 linux
  Input File: whole_crkt.spice
  lic:
  lic: FLEXlm: v8.4b
  lic: USER:   truty1               HOSTNAME: remlnx2.ews.illinois.edu
- lic: HOSTID: 00238b5778be         PID:      9961
+ lic: HOSTID: 00238b5778be         PID:      1709
  lic: Using FLEXlm license file:
  lic: 8000@synopsys.ews.uiuc.edu
  lic: Checkout 1 hspice;  Encryption code: 3D0AE75CDC024B9560C2
@@ -18,31 +18,28 @@
        option probe    =     0.00
        option delmax   =    1.000E-10
        option post     =     2.00
- init: end read circuit files,  cpu clock=  5.00E-02 memory=   1787 kb
- init: begin check errors,  cpu clock=  5.00E-02
- init: end check errors,  cpu clock=  8.00E-02 memory=   4948 kb
- init: begin setup matrix, pivot=    10 cpu clock=  8.00E-02
-       establish matrix -- done,  cpu clock=  8.00E-02 memory=   5022 kb
-       re-order matrix -- done,  cpu clock=  8.00E-02 memory=   5111 kb
- init: end setup matrix,  cpu clock=  8.00E-02 memory=   5628 kb
- dcop: begin dcop,  cpu clock=  8.00E-02
- dcop: begin pseudo transient
- dcop: ...succeeded
- dcop: end pseudo transient
- dcop: end dcop,  cpu clock=  9.10E-01 memory=   5630 kb  tot_iter=     851
+ init: end read circuit files,  cpu clock=  8.00E-02 memory=   3580 kb
+ init: begin check errors,  cpu clock=  8.00E-02
+ init: end check errors,  cpu clock=  1.00E-01 memory=   6994 kb
+ init: begin setup matrix, pivot=    10 cpu clock=  1.00E-01
+       establish matrix -- done,  cpu clock=  1.00E-01 memory=   7079 kb
+       re-order matrix -- done,  cpu clock=  1.10E-01 memory=   7156 kb
+ init: end setup matrix,  cpu clock=  1.10E-01 memory=   7720 kb
+ dcop: begin dcop,  cpu clock=  1.10E-01
+ dcop: end dcop,  cpu clock=  2.40E-01 memory=   7720 kb  tot_iter=     119
  output: whole_crkt.mt0
- sweep: tran tran0    begin, stop_t=  1.50E-08 #sweeps= 301 cpu clock=  9.10E-01
- tran: time= 1.50734E-09 tot_iter=     294   conv_iter=      97
- tran: time= 3.00668E-09 tot_iter=     563   conv_iter=     185
- tran: time= 4.51185E-09 tot_iter=     854   conv_iter=     274
- tran: time= 6.02158E-09 tot_iter=    1127   conv_iter=     364
- tran: time= 7.51278E-09 tot_iter=    1440   conv_iter=     463
- tran: time= 9.01021E-09 tot_iter=    1763   conv_iter=     565
- tran: time= 1.05174E-08 tot_iter=    2082   conv_iter=     666
- tran: time= 1.20016E-08 tot_iter=    2364   conv_iter=     755
- tran: time= 1.35001E-08 tot_iter=    2659   conv_iter=     850
- tran: time= 1.50000E-08 tot_iter=    2940   conv_iter=     941
- sweep: tran tran0    end,  cpu clock=  4.39E+00 memory=   5631 kb
+ sweep: tran tran0    begin, stop_t=  1.50E-08 #sweeps= 301 cpu clock=  2.40E-01
+ tran: time= 1.52062E-09 tot_iter=     328   conv_iter=     107
+ tran: time= 3.00126E-09 tot_iter=     617   conv_iter=     204
+ tran: time= 4.51165E-09 tot_iter=     927   conv_iter=     302
+ tran: time= 6.02497E-09 tot_iter=    1226   conv_iter=     400
+ tran: time= 7.53026E-09 tot_iter=    1563   conv_iter=     506
+ tran: time= 9.00465E-09 tot_iter=    1903   conv_iter=     611
+ tran: time= 1.05084E-08 tot_iter=    2232   conv_iter=     715
+ tran: time= 1.20105E-08 tot_iter=    2518   conv_iter=     803
+ tran: time= 1.35238E-08 tot_iter=    2862   conv_iter=     912
+ tran: time= 1.50000E-08 tot_iter=    3176   conv_iter=    1016
+ sweep: tran tran0    end,  cpu clock=  4.06E+00 memory=   7722 kb
 >info:         ***** hspice job concluded
  Init: hspice initialization file: /apps/Linux/synopsys-2007/Z-2007.03-SP1/hspic
  lic: Release hspice token(s)
