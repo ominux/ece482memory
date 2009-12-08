@@ -33,7 +33,6 @@ I32
 I12
 #ISCELL
 NCSU_TechLib_tsmc02d M2_M1 symbolic
-I11
 I23
 I130
 I129
@@ -72,6 +71,7 @@ I36
 I35
 I34
 I33
+I11
 I26
 I28
 I29
@@ -81,7 +81,6 @@ I27
 I6
 #ISCELL
 NCSU_TechLib_tsmc02d M3_M2 symbolic
-I83
 I121
 I109
 I99
@@ -96,6 +95,7 @@ I87
 I86
 I85
 I84
+I83
 I82
 I81
 I79
