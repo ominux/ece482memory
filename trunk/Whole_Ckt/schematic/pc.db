@@ -1,38 +1,12 @@
 #
-ece482memory reg3a symbol
-I32<3:0> 4
+ece482memory Part1 symbol
+I62
 #
 NCSU_Analog_Parts cap symbol
 C0
 C3
 C2
 C1
-#
-ece482memory hamming_7_4 symbol
-I31
-#
-ece482memory reg2a symbol
-I9<6:0> 7
-#
-ece482memory reg_file1 symbol
-I8
-#
-ece482memory Stage_1 symbol
-I0
-#
-NCSU_Digital_Parts inv symbol
-I52
-I59
-I56
-I58
-I49
-I54
-I61
-I53
-I39
-I50
-I51
-I55
 #
 NCSU_Analog_Parts vpulse symbol
 a2_gen
