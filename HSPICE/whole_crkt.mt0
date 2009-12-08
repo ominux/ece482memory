@@ -1,4 +1,4 @@
 $DATA1 SOURCE='HSPICE' VERSION='Z-2007.03-SP1   '
 .TITLE '* # file name: /home/engr/truty1/cadence/simulation/whole_ckt/hspices/'
  avg_power        temper           alter#            
-  1.766e-03         25.0000           1.0000         
+  1.712e-03         25.0000           1.0000         
