@@ -31,8 +31,8 @@ I17
 I18
 #ISCELL
 NCSU_TechLib_tsmc02d metal2 symbolic
-I25
 I27
+I25
 I24
 I23
 I22
@@ -43,3 +43,12 @@ I19
 #ISCELL
 NCSU_TechLib_tsmc02d M1_P symbolic
 I10
+#ISCELL
+NCSU_TechLib_tsmc02d M3_M2 symbolic
+I37
+I33
+I34
+I32
+I36
+I31
+I30
