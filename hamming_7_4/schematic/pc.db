@@ -1,14 +1,14 @@
 #
+ece482memory inv symbol
+I23
+I22
+I21
+#
 ece482memory NAND3_1x symbol
 I14
 I15
 I16
 I17
-#
-ece482memory inv symbol
-I13
-I12
-I11
 #
 ece482memory MUX21 symbol
 I6
