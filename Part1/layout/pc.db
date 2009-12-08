@@ -1,0 +1,125 @@
+#
+ece482memory inv layout
+I27
+I103
+I97
+#
+ece482memory hamming_7_4 layout
+I54
+#
+ece482memory reg3a layout
+I50
+I53
+I52
+I51
+#
+ece482memory inv2 layout
+I83
+I82
+I19
+I18
+I7
+#
+ece482memory Stage_1 layout
+I1
+#
+ece482memory reg_file2 layout
+I3
+#
+ece482memory reg_file1 layout
+I2
+#ISCELL
+NCSU_TechLib_tsmc02d M3_M2 symbolic
+I91
+I86
+I96
+I94
+I87
+I66
+I49
+I31
+I59
+I65
+I47
+I46
+I21
+I13
+I14
+I8
+I0
+I11
+#ISCELL
+NCSU_TechLib_tsmc02d M2_M1 symbolic
+I4
+I92
+I76
+I100
+I95
+I89
+I85
+I84
+I80
+I81
+I79
+I78
+I74
+I73
+I68
+I63
+I62
+I61
+I60
+I58
+I56
+I55
+I57
+I64
+I48
+I29
+I28
+I20
+I15
+I16
+I5
+I6
+I9
+I10
+I12
+#ISCELL
+NCSU_TechLib_tsmc02d metal1 symbolic
+I99
+I98
+I93
+I75
+I72
+I71
+I70
+I37
+I36
+I35
+I34
+I33
+I38
+I69
+I32
+I26
+I25
+I24
+I23
+I22
+#ISCELL
+NCSU_TechLib_tsmc02d metal2 symbolic
+I45
+I44
+I43
+I42
+I41
+I40
+I39
+#ISCELL
+NCSU_TechLib_tsmc02d metal3 symbolic
+I17
+#ISCELL
+NCSU_TechLib_tsmc02d M4_M3 symbolic
+I67
+I30
